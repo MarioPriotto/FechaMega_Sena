@@ -1,4 +1,6 @@
-# Primeira versão de 1988 (acho que ainda era LOTO)
+# Primeira versão de 1988 (acho que ainda era em BASIC)
+# E o jogo possivelmente era a LOTO
+# A lógica segue a mesma
 
 cont = 0
 for s1 in range(1, 55):

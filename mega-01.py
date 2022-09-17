@@ -1,4 +1,4 @@
-# Elaborado pela primeira vez em 1988
+# Primeira versão de 1988 (acho que ainda era LOTO)
 
 cont = 0
 for s1 in range(1, 55):
